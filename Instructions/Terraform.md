@@ -6,7 +6,7 @@ Note that Terraform works with multiple cloud resources, not just AWS. <br>
 
 We'll use Terraform to create:
 
-1. Redshift Cluster <br>
+1.Redshift Cluster <br>
 
 Redshift is a columnar data warehousing solution offered by AWS. This will be the end destination for our data. <br>
 
