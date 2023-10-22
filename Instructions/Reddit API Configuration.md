@@ -8,7 +8,7 @@ Steps <br>
 
 1.Create a [Reddit account](https://www.reddit.com/register/). <br>
 
-2.Navigat create an app. Make sure you select "script" from the radio buttons during the setup process. <br>
+2.Create an app. Make sure you select "script" from the radio buttons during the setup process. <br>
 
 3.Take a note of a few things once this is setup: <br>
 
