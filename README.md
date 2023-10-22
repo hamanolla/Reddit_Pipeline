@@ -28,8 +28,9 @@ Analysis on Data Engineering posts
 As AWS offer a free tier, this shouldn't cost you anything unless you amend the pipeline to extract large amounts of data, or keep infrastructure running for 2+ months. However, please check AWS free tier limits, as this may change. <br>
 
 1. [Overview](https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/Overview.md)
-2. https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/Reddit%20API%20Configuration.md
-3. https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/AWS.md
-4.https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/Terraform.md
-5.https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/Configuration.md
-6.https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/Airflow.md
+2. [Reddit Config](https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/Reddit%20API%20Configuration.md)
+3. [AWS Account](https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/AWS.md)
+4. [Terraform](https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/Terraform.md)
+5. [Configuration](https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/Configuration.md)
+6. [Airflow & Docker](https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/Airflow.md)
+7. [Dashboard](https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/Final.md)
