@@ -31,4 +31,4 @@ As AWS offer a free tier, this shouldn't cost you anything unless you amend the 
 2. https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/Reddit%20API%20Configuration.md
 3. https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/AWS.md
 4.https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/Terraform.md
-5.
+5.https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/Configuration.md
