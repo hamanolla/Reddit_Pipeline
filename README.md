@@ -19,3 +19,8 @@ My unwavering motivation stems from my burning desire to take the data engineeri
 # Output
 
 <img width="1071" alt="image" src="https://github.com/hamanolla/Reddit_Pipeline/assets/143839865/1d8d3e9b-4458-463f-87dd-92b508a80684">
+
+
+# Setup
+
+As AWS offer a free tier, this shouldn't cost you anything unless you amend the pipeline to extract large amounts of data, or keep infrastructure running for 2+ months. However, please check AWS free tier limits, as this may change.
