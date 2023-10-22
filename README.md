@@ -15,3 +15,7 @@ My unwavering motivation stems from my burning desire to take the data engineeri
 5.Create [Google Data Studio](https://lookerstudio.google.com/u/0/navigation/reporting) Dashboard <br>
 6.Orchestrate with [Airflow](https://airflow.apache.org/) in [Docker](https://www.docker.com/) <br>
 7.Create AWS resources with [Terraform](https://www.terraform.io/)
+
+# Output
+
+<img width="1071" alt="image" src="https://github.com/hamanolla/Reddit_Pipeline/assets/143839865/1d8d3e9b-4458-463f-87dd-92b508a80684">
