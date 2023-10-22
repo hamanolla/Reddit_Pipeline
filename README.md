@@ -8,7 +8,7 @@ My unwavering motivation stems from my burning desire to take the data engineeri
 
 ![image](https://github.com/hamanolla/Reddit_Pipeline/assets/143839865/bde99af0-8d13-4a24-aa8a-ca30fb88064d)
 
-1.Extract data using [RedditAPI](https://www.reddit.com/dev/api/)<br>
+1.Extract data using [RedditAPI](https://www.reddit.com/dev/api/) <br>
 2.Load into [AWS S3](https://aws.amazon.com/s3/)
 3.Copy into [AWS Redshift](https://aws.amazon.com/redshift/)
 4.Transform using [dbt](https://www.getdbt.com/)
