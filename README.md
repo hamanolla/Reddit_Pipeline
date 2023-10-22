@@ -25,4 +25,4 @@ My unwavering motivation stems from my burning desire to take the data engineeri
 
 As AWS offer a free tier, this shouldn't cost you anything unless you amend the pipeline to extract large amounts of data, or keep infrastructure running for 2+ months. However, please check AWS free tier limits, as this may change. <br>
 
-1. [Overview] (https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/Overview.md)
+1. [Overview](https://github.com/hamanolla/Reddit_Pipeline/blob/main/Instructions/Overview.md)
